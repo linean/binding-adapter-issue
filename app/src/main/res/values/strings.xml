@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BindingAdapterIssue</string>
+    <string name="title_dynamicfeature">SampleModule</string>
+</resources>
